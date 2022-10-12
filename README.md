@@ -5,6 +5,6 @@ Building off of the [PrintNC Solidworks repo](https://github.com/bhowiebkr/Print
 For simplicity for myself, I’ll be building parts that are not parametric and will be specific to the existing design of my machine. 
 
 
-![nodes](https://github.com/bhowiebkr/PrintNC_Pro_Solidworks/blob/master/images/PNC_PRO_1.jpg)
+![CNC](https://github.com/bhowiebkr/PrintNC_Pro_Solidworks/blob/main/images/PNC_PRO_1.jpg)
 
 Related video content to the build:
