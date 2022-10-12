@@ -13,3 +13,4 @@ A [Fusion 360](https://github.com/bhowiebkr/PrintNC_Pro_Solidworks/tree/main/src
 ![CNC](https://github.com/bhowiebkr/PrintNC_Pro_Solidworks/blob/main/images/PNC_PRO_1.jpg)
 
 Related video content to the build:
+https://www.youtube.com/c/BryanHoward/videos
