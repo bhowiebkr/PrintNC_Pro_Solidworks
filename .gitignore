@@ -2,3 +2,5 @@ src/Parts/export
 Assemblies/Sim*
 Sim*
 ~$*
+*.pdf
+*.psd
